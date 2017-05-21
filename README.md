@@ -1,6 +1,6 @@
 # Frequency Analysis of Words
 
-[TODO. There will be project description]
+The script counts the words' freqeuncy in a text and returns first 10 the most common.
 
 # Project Goals
 

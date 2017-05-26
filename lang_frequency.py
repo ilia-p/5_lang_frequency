@@ -14,7 +14,6 @@ def load_data(filepath):
             if word:
                 word = word.upper()
                 word_list_final.append(word)
-    print(word_list_final)
     return word_list_final
 
 def get_most_frequent_words(word_list_final):

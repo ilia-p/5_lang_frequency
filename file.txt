@@ -1,4 +1,0 @@
-The script counts the words' freqeuncy in a text and returns first 10 the most common.
-When you start the program, system asks you a file name and then you can see
-first 10 the most common words in you input file.
-To test the script you can create file.txt, copy/paste this chapter and put there )

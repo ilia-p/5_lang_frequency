@@ -7,16 +7,16 @@ To test the script you can create file.txt, copy/paste this chapter and put ther
 
 The result is to be:
 
-*THE - 6
-*YOU - 5
-*AND - 3
-*FIRST - 2
-*A - 2
-*CAN - 2
-*FILE - 2
-*COMMON - 2
-*SCRIPT - 2
-*MOST - 2
+* THE - 6
+* YOU - 5
+* AND - 3
+* FIRST - 2
+* A - 2
+* CAN - 2
+* FILE - 2
+* COMMON - 2
+* SCRIPT - 2
+* MOST - 2
 
 # **Project Goals**
 
